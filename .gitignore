@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+.venv/bin
+.idea/
+flask-exercise1.py
+flask-exercise2.py
+flask-exercise3.py
+flask-exercise4.py
+index.html
+start-flask.py
+.venv/
+app.py
+templates/index.html
+templates/time.html
